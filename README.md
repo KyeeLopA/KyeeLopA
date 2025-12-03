@@ -24,7 +24,7 @@
   </svg>
 </div>
 
-> Kyee adalah proyek open-source untuk [jelaskan tujuan proyekmu].
+> KyeeTech Saya Suka Belajar Hal-Hal Baru Dan Open Source 
 
 ---
 
@@ -62,6 +62,6 @@
 ## 📥 Instalasi
 
 ```bash
-git clone https://github.com/username/kyee.git
-cd kyee
+git clone https://github.com/username/KyeeTechSE.git
+cd KyeeTechSE
 npm install
