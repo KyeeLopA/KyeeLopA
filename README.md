@@ -24,7 +24,7 @@
   </svg>
 </div>
 
-> KyeeTech Saya Suka Belajar Hal-Hal Baru Dan Open Source 
+> KyeeTech Open Source 
 
 ---
 
