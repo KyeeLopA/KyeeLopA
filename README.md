@@ -21,8 +21,14 @@
 
 ### 🔹 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 </p>
+
+
 
 ### 🔹 What I Can Do
 - 🧩 RESTful & GraphQL API  
@@ -53,11 +59,10 @@
 
 ### Discord  
 <p align="left">
-  <a href="https://discord.com/kikiforyou/USER_ID" target="_blank">
+  <a href="https://discord.com/users/USER_ID" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord Logo" />
   </a>
 </p>
-
 
 ---
 
