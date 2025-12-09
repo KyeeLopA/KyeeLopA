@@ -47,14 +47,18 @@
 
 ---
 
-## 📊 Github Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyeeLopA&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeeLopA&layout=compact&theme=tokyonight" height="165" />
+  <!-- Profile Details / Modern Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KyeeLopA&theme=github_dark" alt="Profile Details" width="100%" />
 </p>
 
-
+<p align="center">
+  <!-- Modern Language & Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KyeeLopA&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KyeeLopA&theme=github_dark" height="200" />
+</p>
 
 ---
 
