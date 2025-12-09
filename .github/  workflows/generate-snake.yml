@@ -1,0 +1,47 @@
+name: Generate GitHub Contributions Snake
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 7 * * *' # sekali sehari jam 07:00 UTC (ubah sesuai mau)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Generate snake SVG
+        env:
+          GITHUB_USER: ${{ github.actor }}  # default: actor, replaced by you if needed
+        run: |
+          mkdir -p output
+          python3 scripts/generate_snake.py --username KyeeLopA --output output/github-snake-dark.svg
+
+      - name: Commit & push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/github-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: regenerate contributions snake"
+            git push
+          fi
