@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="https://i.ibb.co/XYZ1234/banner-final.png" alt="Hi! I'm KyeeLopA; Welcome to my GitHub! I'm Backend Dev" width="600"/>
+  <img src="https://raw.githubusercontent.com/KyeeLopA/KyeeLopA/main/foto.jpeg" 
+       alt="Hi! I'm KyeeLopA; Welcome to my GitHub! I'm Backend Dev" 
+       width="100%"/>
+
+   <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00AFFF&center=true&vCenter=true&repeat=true&width=600&lines=Hi!+I'm+KyeeLopA;Welcome+to+my+GitHub!;I'm+Backend+Dev" alt="Typing Animation" />
+</h1>
+
 </p>
+
 
 <p align="center">
   🔥 <strong>Backend Developer</strong> <br>
