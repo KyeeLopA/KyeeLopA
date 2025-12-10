@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KyeeLopA/KyeeLopA/main/foto%20wellcome.jpg" 
+  <img src="https://raw.githubusercontent.com/KyeeLopA/KyeeLopA/main/foto%20welcome.png" 
        alt="Hi! I'm KyeeLopA; Welcome to my GitHub! I'm Backend Dev" 
        width="100%"/>
 
