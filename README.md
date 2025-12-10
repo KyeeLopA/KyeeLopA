@@ -15,7 +15,7 @@
     /* URL gambar harus di-update jika Anda mengunggahnya ke GitHub atau tempat lain */
     /* Untuk contoh ini, saya berasumsi Anda telah mengunggah gambar tersebut dan memiliki URL-nya. 
        Jika ini untuk GitHub README, Anda bisa mengunggah gambarnya ke repo Anda. */
-    background-image: url('https://pin.it/3U6ZwDWef'); 
+    background-image: url('download.jpeg'); 
     
     background-size: cover; /* Pastikan gambar menutupi seluruh area */
     background-position: center; /* Posisikan gambar di tengah */
