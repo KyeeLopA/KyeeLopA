@@ -5,39 +5,23 @@
 </div>
 
 <style>
-/* CSS untuk mengatur latar belakang */
 .background-container {
-    /* Mengatur lebar dan tinggi agar gambar terlihat */
-    width: 600px; /* Sesuaikan dengan lebar img typing SVG */
-    /* Beri sedikit tinggi agar gambar terlihat, atau atur sesuai kebutuhan */
-    height: 100px; 
-    
-    /* URL gambar harus di-update jika Anda mengunggahnya ke GitHub atau tempat lain */
-    /* Untuk contoh ini, saya berasumsi Anda telah mengunggah gambar tersebut dan memiliki URL-nya. 
-       Jika ini untuk GitHub README, Anda bisa mengunggah gambarnya ke repo Anda. */
-    background-image: url('download.jpeg'); 
-    
-    background-size: cover; /* Pastikan gambar menutupi seluruh area */
-    background-position: center; /* Posisikan gambar di tengah */
-    background-repeat: no-repeat; /* Hindari pengulangan gambar */
-    
-    /* Posisi relatif diperlukan agar konten (typing SVG) bisa diposisikan di atas */
-    position: relative;
-    
-    /* Membuat tampilan teks lebih mudah dibaca di atas gambar (opsional) */
-    /* Anda bisa mengatur transparansi (opacity) jika diperlukan, atau beri overlay */
+    width: 600px;
+    height: 100px;
+    background-image: url('download.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative; 
 }
 
-/* Mengatur posisi dan style untuk teks animasi (img) */
 .background-container h1 {
-    /* Menghilangkan margin bawaan h1 */
-    margin: 0; 
-    /* Memposisikan teks di tengah kontainer (opsional, sesuaikan align="center" pada h1) */
+    margin: 0;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 100%; /* Pastikan lebar 100% untuk center */
+    width: 100%;
 }
 </style>
 
