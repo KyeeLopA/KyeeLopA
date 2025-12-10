@@ -1,9 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00AFFF&center=true&vCenter=true&repeat=true&width=600&lines=Hi!+I'm+KyeeLopA;Welcome+to+my+GitHub!;I'm+Backend+Dev" alt="Typing Animation" />
-</h1>
-
 <p align="center">
-  <img src="[KyeeLopA/download.jpeg at main · KyeeLopA/KyeeLopA]" alt="KyeeLopA Backend Dev Banner" width="600"/>
+  <img src="https://i.ibb.co/XYZ1234/banner-final.png" alt="Hi! I'm KyeeLopA; Welcome to my GitHub! I'm Backend Dev" width="600"/>
 </p>
 
 <p align="center">
