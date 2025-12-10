@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
   <!-- Profile Details / Modern Card -->
