@@ -74,7 +74,7 @@
 
 ### Discord  
 <p align="left">
-  <a href="https://discord.com/users/USER_ID" target="_blank">
+  <a href="https://discord.com/kikiforyou/USER_ID" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord Logo" />
   </a>
 </p>
